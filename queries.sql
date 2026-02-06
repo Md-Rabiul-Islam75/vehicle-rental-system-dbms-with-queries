@@ -1,4 +1,3 @@
-
 SELECT
   b.booking_id,
   u.name AS customer_name,
